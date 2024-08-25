@@ -16,6 +16,7 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON A
 */
 
 #include "game.h"
+#define NOMINMAX
 
 #include <cstring>
 
