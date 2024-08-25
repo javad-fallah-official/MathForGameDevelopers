@@ -297,7 +297,7 @@ bool CGame::MouseInput(int iButton, tinker_mouse_state_t iState)
 	}
 
 	if (iButton == TINKER_KEY_MOUSE_RIGHT && iState == TINKER_MOUSE_PRESSED)
-		sleep(1);
+		Sleep(1);
 
 	return false;
 }
